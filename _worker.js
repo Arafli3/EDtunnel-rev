@@ -285,7 +285,7 @@ function homePageHTML() {
     <!-- Sidebar -->
     <div class="sidebar">
         <div>
-            <h2>Navigation</h2>
+            <h2>HC STORE</h2>
             <a href="https://edt.us.kg" target="_blank"><i class="fas fa-info-circle"></i> Project Overview</a>
             <a href="https://t.me/hermananza" target="_blank"><i class="fab fa-telegram"></i> Order Akun Vpn</a>
         </div>
